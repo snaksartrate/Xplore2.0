@@ -13,4 +13,4 @@ Can you help Project X complete its journey and find its way back home?
 - 1 frame = 2 minutes
 - 1 pixel = 200 meters
 
-#### Link for the image: https://drive.google.com/file/d/1iouIhGeSlSLFLITTrDM5KxcugNLtDGhD/view
+#### Link for the video: https://drive.google.com/file/d/1iouIhGeSlSLFLITTrDM5KxcugNLtDGhD/view
